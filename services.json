@@ -2,7 +2,7 @@
   {
     "id": "1",
     "type": "Music Festival",
-    "description": "Experience the magic of live music from a diverse range of genres, featuring local and international artists. Dance to the rhythm, enjoy food and drinks, and immerse yourself in a vibrant musical atmosphere.",
+    "description": "Join us for an unforgettable journey into the world of music at our annual Music Festival. Over the course of 2-3 days, you'll have the opportunity to witness extraordinary performances from a wide range of musical genres. From rock and pop to jazz and world music, our lineup features both local talent and renowned international artists. Enjoy a dynamic atmosphere filled with music, delicious food, and a variety of beverages. Whether you're a music enthusiast or simply looking for a fun weekend, our Music Festival is an event you won't want to miss.",
     "featured_location": "Outdoor amphitheater",
     "duration": "2-3 days",
     "ticket_price_range": "$20 - $150",
@@ -11,7 +11,7 @@
   {
     "id": "2",
     "type": "Art Exhibition",
-    "description": "Explore a world of creativity and expression through visual arts. View stunning paintings, sculptures, and multimedia installations from talented artists, both established and emerging.",
+    "description": "Discover the beauty of artistic expression at our Art Exhibition. Over the course of 1-2 weeks, our gallery showcases a diverse collection of paintings, sculptures, and multimedia installations. From renowned artists to emerging talents, our exhibition celebrates the rich tapestry of creativity. Admission is free, allowing everyone to immerse themselves in the world of art. Whether you're an art enthusiast or simply curious, our Art Exhibition offers a captivating experience for all.",
     "featured_location": "Art gallery",
     "duration": "1-2 weeks",
     "ticket_price_range": "Free admission",
@@ -20,7 +20,7 @@
   {
     "id": "3",
     "type": "Culinary Showcase",
-    "description": "Indulge your taste buds in a culinary adventure. Sample a wide array of delicious dishes from around the world, prepared by skilled chefs and culinary enthusiasts.",
+    "description": "Embark on a culinary journey at our Culinary Showcase, where food lovers gather to savor flavors from around the world. Over 1-3 days, you'll have the opportunity to sample an array of mouthwatering dishes prepared by skilled chefs and culinary enthusiasts. From international delicacies to local favorites, our showcase is a feast for the senses. Tickets are affordably priced, making it accessible to all who appreciate fine cuisine. Join us for a gastronomic adventure like no other.",
     "featured_location": "Food festival grounds",
     "duration": "1-3 days",
     "ticket_price_range": "$10 - $50",
@@ -29,7 +29,7 @@
   {
     "id": "4",
     "type": "Cultural Celebration",
-    "description": "Participate in the rich traditions and festivities of different cultures. Enjoy performances, rituals, and cultural activities that showcase the diversity of our world.",
+    "description": "Immerse yourself in the vibrant tapestry of cultures at our Cultural Celebration. Held for one memorable day at our community center, this event is a kaleidoscope of traditions and festivities from around the world. Experience captivating performances, cultural rituals, and engaging activities that showcase the richness of our global community. Admission is free, welcoming everyone to join in the celebration of diversity and unity.",
     "featured_location": "Community center",
     "duration": "1 day",
     "ticket_price_range": "Free admission",
@@ -38,7 +38,7 @@
   {
     "id": "5",
     "type": "New Year Celebration",
-    "description": "Ring in the new year with a spectacular celebration! Join us for music, fireworks, and festivities as we welcome a fresh start together.",
+    "description": "Say goodbye to the old and welcome the new year with a bang at our New Year Celebration! Held in the heart of the city, this one-night extravaganza is filled with music, dazzling fireworks, and joyful festivities. Join the community in ushering in a fresh start with excitement and optimism. Tickets are available at varying prices, ensuring that everyone can be part of this memorable night.",
     "featured_location": "City center",
     "duration": "1 night",
     "ticket_price_range": "$25 - $100",
@@ -47,7 +47,7 @@
   {
     "id": "6",
     "type": "Craft Fair",
-    "description": "Explore handmade crafts, artworks, and artisanal products. Support local artisans and find unique, one-of-a-kind items that reflect the creativity of the community.",
+    "description": "Discover the world of handmade crafts and artisanal products at our Craft Fair. Held over 1-2 days at our outdoor market, this event showcases the creativity and craftsmanship of local artisans. Browse through a wide range of unique, one-of-a-kind items, including handmade crafts, artworks, and artisanal products. It's a perfect opportunity to support local artisans and find treasures that reflect the creativity of the community. Admission is free, making it accessible to all.",
     "featured_location": "Outdoor market",
     "duration": "1-2 days",
     "ticket_price_range": "Free admission",
