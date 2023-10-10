@@ -1,5 +1,6 @@
 [
     {
+        "id": "1",
       "title": "Event Coordinator",
       "department": "Operations",
       "location": "New York City",
@@ -9,6 +10,7 @@
       "application_deadline": "2023-10-30"
     },
     {
+        "id": "2",
       "title": "Marketing Specialist",
       "department": "Marketing",
       "location": "Los Angeles",
@@ -18,6 +20,7 @@
       "application_deadline": "2023-10-30"
     },
     {
+        "id": "3",
       "title": "Customer Support Representative",
       "department": "Customer Support",
       "location": "Chicago",
@@ -27,6 +30,7 @@
       "application_deadline": "2023-10-30"
     },
     {
+        "id": "4",
       "title": "Graphic Designer",
       "department": "Creative",
       "location": "San Francisco",
@@ -36,6 +40,7 @@
       "application_deadline": "2023-10-30"
     },
     {
+        "id": "5",
       "title": "Event Photographer",
       "department": "Creative",
       "location": "Miami",
@@ -45,6 +50,7 @@
       "application_deadline": "2023-10-30"
     },
     {
+        "id": "6",
       "title": "Financial Analyst",
       "department": "Finance",
       "location": "Houston",
