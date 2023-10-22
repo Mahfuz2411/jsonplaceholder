@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Bugatti",
+    "img_link": "https://example.com/image1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "mclaren",
+    "img_link": "https://example.com/image2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "farrari",
+    "img_link": "https://example.com/image3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "roles royce",
+    "img_link": "https://example.com/image4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "lamborgini",
+    "img_link": "https://example.com/image5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Element 6",
+    "img_link": "https://example.com/image6.jpg"
+  }
+]
