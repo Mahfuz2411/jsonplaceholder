@@ -1,31 +1,31 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "name": "Bugatti",
     "img_link": "https://i.ibb.co/Jp6zd28/bugatti.jpg"
   },
   {
-    "id": 2,
+    "id": "2",
     "name": "Mclaren",
     "img_link": "https://i.ibb.co/Xk5bQK2/mclaren.jpg"
   },
   {
-    "id": 3,
+    "id": "3",
     "name": "Farrari",
     "img_link": "https://i.ibb.co/6N7m1JM/farrari.jpg"
   },
   {
-    "id": 4,
+    "id": "4",
     "name": "Roles Royce",
     "img_link": "https://i.ibb.co/nstYkVj/rolesroyce.jpg"
   },
   {
-    "id": 5,
+    "id": "5",
     "name": "Lamborgini",
     "img_link": "https://i.ibb.co/3s7X23L/lamborgini.jpg"
   },
   {
-    "id": 6,
+    "id": "6",
     "name": "Range Rover",
     "img_link": "https://i.ibb.co/SX7fFB9/rangerover.jpg"
   }
