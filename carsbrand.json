@@ -1,32 +1,42 @@
 [
   {
     "id": "1",
+    "logo": "https://i.ibb.co/tbr1fD9/bugattilogo.jpg",
     "name": "Bugatti",
     "img_link": "https://i.ibb.co/Jp6zd28/bugatti.jpg"
   },
   {
     "id": "2",
+    "logo": "https://i.ibb.co/t8hPpK6/mclarenlogo.png",
     "name": "Mclaren",
     "img_link": "https://i.ibb.co/Xk5bQK2/mclaren.jpg"
   },
   {
     "id": "3",
+    "logo": "https://i.ibb.co/ySWzHHC/farrarilogo.png",
     "name": "Farrari",
     "img_link": "https://i.ibb.co/6N7m1JM/farrari.jpg"
   },
   {
     "id": "4",
+    "logo": "https://i.ibb.co/tBmbwLp/rolesroycelogo.jpg",
     "name": "Roles Royce",
     "img_link": "https://i.ibb.co/nstYkVj/rolesroyce.jpg"
   },
   {
     "id": "5",
-    "name": "Lamborgini",
+    "logo": "https://i.ibb.co/w0xY6ZC/lmglogo.jpg",
+    "name": "Lamborghini",
     "img_link": "https://i.ibb.co/3s7X23L/lamborgini.jpg"
   },
   {
     "id": "6",
+    "logo": "https://i.ibb.co/SNvtCkn/rangeroverlogo.png",
     "name": "Range Rover",
     "img_link": "https://i.ibb.co/SX7fFB9/rangerover.jpg"
   }
 ]
+
+
+
+
