@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "quote": "To design is to communicate clearly by whatever means you can control or master.",
+      "author": "Milton Glaser",
+      "category": "Graphic Design",
+      "color": "#e74c3c",
+      "image": "graphic_design_image_url"
+    },
+    {
+      "id": 2,
+      "quote": "Content is fire, social media is gasoline.",
+      "author": "Jay Baer",
+      "category": "Digital Marketing",
+      "color": "#27ae60",
+      "image": "digital_marketing_image_url"
+    },
+    {
+      "id": 3,
+      "quote": "Design is not just what it looks like and feels like. Design is how it works.",
+      "author": "Steve Jobs",
+      "category": "Graphic Design",
+      "color": "#e74c3c",
+      "image": "graphic_design_image_url"
+    },
+    {
+      "id": 4,
+      "quote": "Good marketing makes the company look smart. Great marketing makes the customer feel smart.",
+      "author": "Joe Chernov",
+      "category": "Digital Marketing",
+      "color": "#27ae60",
+      "image": "digital_marketing_image_url"
+    },
+    {
+      "id": 5,
+      "quote": "The web does not just connect machines, it connects people.",
+      "author": "Tim Berners-Lee",
+      "category": "Web Development",
+      "color": "#3498db",
+      "image": "web_development_image_url"
+    },
+    {
+      "id": 6,
+      "quote": "Design is thinking made visual.",
+      "author": "Saul Bass",
+      "category": "Graphic Design",
+      "color": "#e74c3c",
+      "image": "graphic_design_image_url"
+    },
+    {
+      "id": 7,
+      "quote": "The best websites are not built overnight; they evolve over time.",
+      "author": "Unknown",
+      "category": "Web Development",
+      "color": "#3498db",
+      "image": "web_development_image_url"
+    },
+    {
+      "id": 8,
+      "quote": "Web development is all about turning beautifully designed web pages into interactive and functional websites.",
+      "author": "Unknown",
+      "category": "Web Development",
+      "color": "#3498db",
+      "image": "web_development_image_url"
+    },
+    {
+      "id": 9,
+      "quote": "The best marketing doesn't feel like marketing.",
+      "author": "Tom Fishburne",
+      "category": "Digital Marketing",
+      "color": "#27ae60",
+      "image": "digital_marketing_image_url"
+    },
+    {
+      "id": 10,
+      "quote": "Marketing is telling the world you're a rock star. Content marketing is showing the world you are one.",
+      "author": "Robert Rose",
+      "category": "Digital Marketing",
+      "color": "#27ae60",
+      "image": "digital_marketing_image_url"
+    },
+    {
+      "id": 11,
+      "quote": "The future of the web is mobile, and that's where the opportunities are.",
+      "author": "Eric Schmidt",
+      "category": "Web Development",
+      "color": "#3498db",
+      "image": "web_development_image_url"
+    },
+    {
+      "id": 12,
+      "quote": "Simplicity is the ultimate sophistication.",
+      "author": "Leonardo da Vinci",
+      "category": "Graphic Design",
+      "color": "#e74c3c",
+      "image": "graphic_design_image_url"
+    },
+    {
+      "id": 13,
+      "quote": "Graphic design will save the world right after rock and roll does.",
+      "author": "David Carson",
+      "category": "Graphic Design",
+      "color": "#e74c3c",
+      "image": "graphic_design_image_url"
+    },
+    {
+      "id": 14,
+      "quote": "Code is poetry.",
+      "author": "WordPress mantra",
+      "category": "Web Development",
+      "color": "#3498db",
+      "image": "web_development_image_url"
+    },
+    {
+      "id": 15,
+      "quote": "In the world of Internet Customer Service, it's important to remember your competitor is only one mouse click away.",
+      "author": "Doug Warner",
+      "category": "Digital Marketing",
+      "color": "#27ae60",
+      "image": "digital_marketing_image_url"
+    }
+  ]
