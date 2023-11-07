@@ -1,0 +1,56 @@
+[
+  {
+    "job_title": "Digital",
+    "category": "Digital Marketing",
+    "email": "funding@gmail.com",
+    "deadline": "2023-11-07",
+    "min_price": 0,
+    "max_price": 10,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea, voluptatem."
+  },
+  {
+    "job_title": "Web Developer",
+    "category": "Web Development",
+    "email": "webdev@gmail.com",
+    "deadline": "2023-11-15",
+    "min_price": 20,
+    "max_price": 50,
+    "description": "Looking for an experienced web developer to create a responsive website."
+  },
+  {
+    "job_title": "Graphic Designer",
+    "category": "Graphic Design",
+    "email": "designer@gmail.com",
+    "deadline": "2023-11-30",
+    "min_price": 10,
+    "max_price": 30,
+    "description": "Create eye-catching graphics and visuals for our marketing campaigns."
+  },
+  {
+    "job_title": "Content Writer",
+    "category": "Content Writing",
+    "email": "writer@gmail.com",
+    "deadline": "2023-12-10",
+    "min_price": 5,
+    "max_price": 15,
+    "description": "Write engaging and informative content for our blog and website."
+  },
+  {
+    "job_title": "Social Media Manager",
+    "category": "Social Media",
+    "email": "socialmedia@gmail.com",
+    "deadline": "2023-12-20",
+    "min_price": 15,
+    "max_price": 25,
+    "description": "Manage and grow our social media presence across various platforms."
+  },
+  {
+    "job_title": "SEO Specialist",
+    "category": "SEO",
+    "email": "seo@gmail.com",
+    "deadline": "2024-01-05",
+    "min_price": 10,
+    "max_price": 20,
+    "description": "Optimize our website for search engines and improve organic traffic."
+  }
+]
