@@ -52,5 +52,59 @@
     "min_price": 10,
     "max_price": 20,
     "description": "Optimize our website for search engines and improve organic traffic."
+  },
+  {
+    "job_title": "SEO Specialist",
+    "category": "Digital Marketing",
+    "email": "seo@gmail.com",
+    "deadline": "2024-02-15",
+    "min_price": 15,
+    "max_price": 30,
+    "description": "Improve website's SEO and drive organic traffic through effective strategies."
+  },
+  {
+    "job_title": "Social Media Manager",
+    "category": "Digital Marketing",
+    "email": "socialmedia@gmail.com",
+    "deadline": "2024-03-10",
+    "min_price": 20,
+    "max_price": 40,
+    "description": "Manage and grow our social media presence to boost engagement and brand awareness."
+  },
+  {
+    "job_title": "Content Writer",
+    "category": "Digital Marketing",
+    "email": "contentwriter@gmail.com",
+    "deadline": "2024-03-25",
+    "min_price": 10,
+    "max_price": 25,
+    "description": "Create high-quality content for marketing campaigns and blog posts."
+  },
+  {
+    "job_title": "Digital Advertising Specialist",
+    "category": "Digital Marketing",
+    "email": "advertisingspecialist@gmail.com",
+    "deadline": "2024-04-05",
+    "min_price": 25,
+    "max_price": 50,
+    "description": "Optimize digital advertising campaigns to maximize ROI."
+  },
+  {
+    "job_title": "Email Marketing Manager",
+    "category": "Digital Marketing",
+    "email": "emailmanager@gmail.com",
+    "deadline": "2024-04-20",
+    "min_price": 20,
+    "max_price": 35,
+    "description": "Plan and execute email marketing campaigns to drive conversions and engagement."
+  },
+  {
+    "job_title": "Digital Marketing Analyst",
+    "category": "Digital Marketing",
+    "email": "analyst@gmail.com",
+    "deadline": "2024-05-10",
+    "min_price": 30,
+    "max_price": 60,
+    "description": "Analyze data to assess the performance of digital marketing efforts and provide insights for improvement."
   }
 ]
