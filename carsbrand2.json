@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "logo": "https://i.ibb.co/tbr1fD9/bugattilogo.jpg",
+    "name": "BMW",
+    "img_link": "https://i.ibb.co/BrN9qQj/818fed78-e8a8-49f1-a8a8-fbe72a543f23.webp"
+  },
+  {
+    "id": "2",
+    "logo": "https://i.ibb.co/t8hPpK6/mclarenlogo.png",
+    "name": "Mercedes Benz",
+    "img_link": "https://i.ibb.co/7SNCjqV/Mercedes-Benz-W223-IMG-6663.jpg"
+  },
+  {
+    "id": "3",
+    "logo": "https://i.ibb.co/ySWzHHC/farrarilogo.png",
+    "name": "Ford",
+    "img_link": "https://i.ibb.co/jLjPdmN/2024-ford-f-150-stx-exterior.jpg"
+  },
+  {
+    "id": "4",
+    "logo": "https://i.ibb.co/tBmbwLp/rolesroycelogo.jpg",
+    "name": "Toyota",
+    "img_link": "https://i.ibb.co/tp7GxLZ/2023-toyota-corolla-sedan-xse-fq-oem-1-1280.jpg"
+  },
+  {
+    "id": "5",
+    "logo": "https://i.ibb.co/w0xY6ZC/lmglogo.jpg",
+    "name": "Honda",
+    "img_link": "https://i.ibb.co/HPcyhz6/images-7.jpg"
+  },
+  {
+    "id": "6",
+    "logo": "https://i.ibb.co/SNvtCkn/rangeroverlogo.png",
+    "name": "Range Rover",
+    "img_link": "https://i.ibb.co/SX7fFB9/rangerover.jpg"
+  }
+]
